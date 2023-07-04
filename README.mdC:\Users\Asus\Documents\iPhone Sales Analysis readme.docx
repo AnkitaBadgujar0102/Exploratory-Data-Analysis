@@ -1,1 +1,8 @@
 # Exploratory-Data-Analysis
+Performed EDA on iPhone sales data.
+• Imported the dataset from Kaggle.
+• Identified missing values and categorized them.
+• Analyzed the shape, data types, and unique values in the dataset.
+• Examined the relationship between variables using correlation and scatter plots.
+• Detected outliers using box plots.
+• Drew conclusions based on the analysis.
